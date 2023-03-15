@@ -1,2 +1,3 @@
 # Naufragio_Titanic
 O desafio de D.Sci. do Titanic é uma das competições mais conhecidas dos cientistas de dados, e é promovida pelo site kaggle.com. Tamanha popularidade desta competição fez com que ela fosse considerada como sendo um Hello, World! para o universo fantástico do Data Science.
+Fato histórico já conhecido o naufrágio do Titanic, obviamente, aqueles que sobreviveram à tragédia contaram com muita sorte, mas será que alguns grupos de passageiros não tiveram “mais sorte” que outros grupos? Será que crianças e mulheres realmente tiveram mais chances de sobreviver? Será que o Jack teve menos chances de escapar do seu destino trágico que a Rose, só pelo fato de ele ter embarcado na 3ª Classe? É isto que vamos analisar.
